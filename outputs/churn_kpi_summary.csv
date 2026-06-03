@@ -1,0 +1,2 @@
+total_customers,active_customers,customers_to_watch,inactive_or_churned_customers,high_risk_customers,churned_customers,churn_rate_pct,total_lifetime_sales,revenue_at_high_risk,revenue_at_high_risk_pct,avg_days_since_last_order,avg_churn_risk_score
+793,203,233,357,245,263,33.17,2297201.01,721055.1,31.39,146.8,36.17

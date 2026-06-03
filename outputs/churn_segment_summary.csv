@@ -1,0 +1,27 @@
+customer_segment,churn_risk_band,inactivity_status,recommended_retention_action,customer_count,lifetime_sales,lifetime_profit,avg_days_since_last_order,avg_churn_risk_score,avg_inactivity_ratio
+Loyal Customer,Critical Risk,Inactive,Immediate win-back outreach,9,67004.29,15569.67,146.89,80.0,2.27
+Loyal Customer,Healthy,Active,Maintain relationship,123,444681.68,52089.99,17.24,1.34,0.16
+Loyal Customer,Healthy,Watch,Maintain relationship,81,323768.89,36602.04,43.25,11.36,0.37
+Loyal Customer,High Risk,Churned,Targeted retention offer,64,227472.08,46163.21,313.3,70.63,3.45
+Loyal Customer,High Risk,Inactive,Targeted retention offer,44,186345.39,20227.18,130.55,66.7,1.38
+Loyal Customer,Low Risk,Active,Light-touch nurture,24,84084.63,12316.32,14.63,21.04,0.14
+Loyal Customer,Low Risk,At Risk,Light-touch nurture,35,101791.33,8858.33,75.49,23.57,0.61
+Loyal Customer,Low Risk,Watch,Light-touch nurture,23,96600.37,11661.93,48.0,30.43,0.44
+Loyal Customer,Medium Risk,At Risk,Monitor and re-engage,13,46864.24,1001.16,77.31,43.08,0.69
+Loyal Customer,Medium Risk,Churned,Monitor and re-engage,1,2893.46,443.34,183.0,50.0,0.69
+Loyal Customer,Medium Risk,Inactive,Monitor and re-engage,47,99622.06,14173.9,112.89,55.0,0.71
+One-Time Customer,Critical Risk,Churned,Immediate win-back outreach,8,1477.74,-156.96,527.25,85.0,5.86
+One-Time Customer,Critical Risk,Inactive,Immediate win-back outreach,1,1058.11,502.92,175.0,80.0,1.94
+One-Time Customer,High Risk,Inactive,Targeted retention offer,1,1038.26,265.53,106.0,75.0,1.18
+One-Time Customer,Low Risk,At Risk,Light-touch nurture,2,1593.53,155.88,69.0,30.0,0.77
+Repeat Customer,Critical Risk,Inactive,Immediate win-back outreach,3,6674.17,1099.32,138.0,80.0,2.5
+Repeat Customer,Healthy,Active,Maintain relationship,49,73608.35,8009.0,14.39,1.22,0.09
+Repeat Customer,Healthy,Watch,Maintain relationship,43,99098.26,11323.83,46.42,10.93,0.23
+Repeat Customer,High Risk,Churned,Targeted retention offer,109,217813.16,25246.74,472.63,70.28,4.55
+Repeat Customer,High Risk,Inactive,Targeted retention offer,6,12171.9,2670.63,130.33,67.5,1.41
+Repeat Customer,Low Risk,Active,Light-touch nurture,7,11000.73,1732.33,15.43,20.0,0.09
+Repeat Customer,Low Risk,At Risk,Light-touch nurture,24,49808.55,7415.21,75.67,20.83,0.32
+Repeat Customer,Low Risk,Watch,Light-touch nurture,9,19706.96,2921.21,48.44,30.0,0.37
+Repeat Customer,Medium Risk,At Risk,Monitor and re-engage,3,31759.99,-639.74,78.0,41.67,0.79
+Repeat Customer,Medium Risk,Churned,Monitor and re-engage,17,13408.22,220.3,280.88,50.0,0.7
+Repeat Customer,Medium Risk,Inactive,Monitor and re-engage,47,75854.66,6523.91,120.47,55.0,0.54
