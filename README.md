@@ -28,6 +28,8 @@ This project addresses these challenges through a churn analytics framework that
 - SQL
 - Power BI
 - Excel
+- Data Analytics
+- Customer Retention Analytics
 
 ---
 
@@ -173,7 +175,7 @@ This solution helps organizations:
 ## Repository Structure
 
 ```text
-customer-retention-churn-analytics-powerbi
+customer-retention-analytics-dashboard
 │
 ├── dataset
 ├── sql
@@ -188,17 +190,10 @@ customer-retention-churn-analytics-powerbi
 
 ## Author
 
-**Manjeet Kathuria**
+Manjeet Kathuria
 
 MBA (Finance) | CFA Level II | Financial Analytics & Data Analytics
 
-Skills:
-- Power BI
-- SQL
-- Python
-- Financial Modelling
-- Business Intelligence
-- Data Visualization
 
 ---
 
